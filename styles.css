@@ -1,0 +1,59 @@
+
+
+@media (min-width: 992px) {
+    #navbarNav{
+        display: flex;
+        justify-content: flex-end;
+    }
+
+
+    #acercaTexto{
+
+        display: flex;
+        justify-content: center;
+
+    }
+
+}
+
+.img-carrito{
+    width: 100px;
+    height: 130px;
+}
+
+
+.producto {
+    border-radius: 10px;
+    background-color: #f8f9fa;
+    padding: 10px;
+    margin-bottom: 10px; 
+}
+
+
+#infoContacto{
+
+    margin-top: 90px;
+}
+
+
+
+
+#acercaTexto{
+
+    margin-bottom:50px;
+}
+
+#aboutusContainer {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+
+.icono{
+    width: 20px;
+    height: 20px;
+}
